@@ -65,9 +65,7 @@ npm install
 Créer un fichier `.env` dans le dossier `backend` :
 
 ```env
-PORT=5000
-MONGO_URI=mongodb://localhost:27017/superhero-manager
-JWT_SECRET=supersecretkey
+
 ```
 
 Lancer le backend :
